@@ -1,5 +1,5 @@
 # title
-A simple Vue project template developed with TypeScript
+A simple Vue 2.0 project template developed with TypeScript 2.0
 
 # Quick Start
 ```

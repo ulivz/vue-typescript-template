@@ -1,6 +1,6 @@
 {
   "name": "vue-typescript-template",
-  "description": "A simple Vue project template developed with TypeScript",
+  "description": "A simple Vue project template developed with TypeScript 2.0",
   "version": "1.0.0",
   "author": "toxichl",
   "private": true,
