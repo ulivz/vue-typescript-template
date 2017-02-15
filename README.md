@@ -1,0 +1,22 @@
+# title
+A simple Vue project template developed with TypeScript
+
+# Quick Start
+```
+npm install
+npm run dev
+```
+
+# Libraries
+
+name | version
+--- | ---
+typescript | 2.0.0+
+Vue | 2.0.0+
+Vue Router | 2.0.0+
+vue-resource | 0.9.3
+lodash | 4.0.0+
+
+
+
+

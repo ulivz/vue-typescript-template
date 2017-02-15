@@ -1,0 +1,27 @@
+{
+  "name": "vue-typescript-template",
+  "description": "A simple Vue project template developed with TypeScript",
+  "version": "1.0.0",
+  "author": "toxichl",
+  "private": true,
+  "scripts": {
+      "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+      "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "@types/es6-promise": "0.0.32",
+    "@types/lodash": "^4.14.52",
+    "@types/requirejs": "^2.0.0",
+    "@types/vue": "^2.0.0",
+    "@types/vue-resource": "^0.9.3",
+    "@types/vue-router": "^2.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^3.0.0",
+    "html-loader": "^0.4.3",
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.0.0",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0"
+  }
+}
